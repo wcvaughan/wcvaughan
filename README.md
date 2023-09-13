@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wcvaughan
 - 👀 I’m interested in practicing the basics in programming languages and becoming more familiar with job skills necessary to be a successful developer.
-- 🌱 I’m currently learning HTML and CSS, my next course is going to be JavaScript
+- 🌱 I’m currently enrolled in courses online through BYU-Idaho while I previously completed a boot camp with The Tech Academy focusing on C# and .NET CORE
 - 💞️ I’m looking to collaborate on not sure yet
 - 📫 How to reach me: chrisvaughanlds@gmail.com
 
